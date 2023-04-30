@@ -1,4 +1,3 @@
 pandas
 streamlit
 sqlalchemy
-pysqlite3
