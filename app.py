@@ -54,6 +54,8 @@ st.set_page_config(
 )
 
 st.title("CSV to SQLite Converter")
+st.markdown("Service by [NGMI.ai](https://ngmi.ai)")
+st.markdown("Follow Us on [Mastodon](https://mastodon.online/@ngmi)")
 
 uploaded_file = st.file_uploader("Upload CSV file", type=["csv"])
 
